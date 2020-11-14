@@ -3,6 +3,7 @@
 Patch for slowing down the speed of the game Micro Machines V3 on modern Windows / Linux (wine) computers. This game was produced by Codemasters.
 
 Run this script with "python3 patch_micro_exe_german.py" (if you have installed the german version of the game).
+
 Run this script with "python3 patch_micro_exe_all_languages.py" (if you have installed any language version of the game).
 
 
